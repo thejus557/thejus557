@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎨 Hi there! I'm an experienced frontend developer, painting vibrant digital masterpieces with HTML, CSS, and JavaScript. My code waltzes effortlessly with browsers, making them dance to the beat of delightful user experiences. 💃 When I'm not lost in the world of coding, you'll find me catching bugs and sunshine 🐞🌞 or sipping on a cup of creative inspiration ☕️. Let's collaborate and build something extraordinary together! 🚀
+🎨 Hi there! I'm an experienced frontend developer, painting vibrant digital masterpieces with HTML, CSS, JavaScript, React and Angular. My code waltzes effortlessly with browsers, making them dance to the beat of delightful user experiences. 💃 When I'm not lost in the world of coding, you'll find me catching bugs and sunshine 🐞🌞 or sipping on a cup of creative inspiration ☕️. Let's collaborate and build something extraordinary together! 🚀
 
 
 ## 🌐 Socials:
