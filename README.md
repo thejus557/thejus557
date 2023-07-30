@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎨 Hi there! I'm an experienced frontend developer, painting vibrant digital masterpieces with HTML, CSS, JavaScript, React and Angular. My code waltzes effortlessly with browsers, making them dance to the beat of delightful user experiences. 💃 When I'm not lost in the world of coding, you'll find me catching bugs and sunshine 🐞🌞 or sipping on a cup of creative inspiration ☕️. Let's collaborate and build something extraordinary together! 🚀
+🎨 Hi there! I'm an experienced frontend developer, painting vibrant digital masterpieces with HTML, CSS, JavaScript, React, Angular and Vuejs. My code waltzes effortlessly with browsers, making them dance to the beat of delightful user experiences. 💃 When I'm not lost in the world of coding, you'll find me catching bugs and sunshine 🐞🌞 or sipping on a cup of creative inspiration ☕️. Let's collaborate and build something extraordinary together! 🚀
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=thejus557&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thejus557&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thejus557&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thejus557&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
